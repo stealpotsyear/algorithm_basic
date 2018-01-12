@@ -20,25 +20,25 @@ public class Problem3 {
 		int dayNum = cal.get(Calendar.DAY_OF_WEEK);
 		switch (dayNum) {
 		case 1:
-			date = "ÀÏ¿äÀÏ";
+			date = "ì›”ìš”ì¼";
 			break;
 		case 2:
-			date = "¿ù¿äÀÏ";
+			date = "í™”ìš”ì¼";
 			break;
 		case 3:
-			date = "È­¿äÀÏ";
+			date = "ìˆ˜ìš”ì¼";
 			break;
 		case 4:
-			date = "¼ö¿äÀÏ";
+			date = "ëª©ìš”ì¼";
 			break;
 		case 5:
-			date = "¸ñ¿äÀÏ";
+			date = "ê¸ˆìš”ì¼";
 			break;
 		case 6:
-			date = "±İ¿äÀÏ";
+			date = "í† ìš”ì¼";
 			break;
 		case 7:
-			date = "Åä¿äÀÏ";
+			date = "ì¼ìš”ì¼";
 			break;
 		}
 
